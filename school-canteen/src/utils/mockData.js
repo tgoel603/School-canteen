@@ -1,0 +1,14 @@
+export const initialSnacks = [
+  { id: 1, name: "Apple Pie", price: 15, ordersCount: 15 },
+  { id: 2, name: "Cheese Sandwich", price: 25, ordersCount: 12 },
+  { id: 3, name: "Fruit Juice", price: 10, ordersCount: 20 },
+  { id: 4, name: "Cup Cake", price: 15, ordersCount: 10 },
+  { id: 5, name: "Veg Wrap", price: 30, ordersCount: 8 },
+  { id: 6, name: "Chocolate Milkshake", price: 20, ordersCount: 18 },
+  { id: 7, name: "Coco Cola", price: 40, ordersCount: 25 },
+  { id: 8, name: "Burger", price: 25, ordersCount: 30 },
+  { id: 9, name: "Momos", price: 15, ordersCount: 25 },
+  { id: 10, name: "Tea/Coffee", price: 10, ordersCount: 35 },
+];
+
+export const initialStudents = [];

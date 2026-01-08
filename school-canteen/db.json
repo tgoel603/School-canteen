@@ -1,0 +1,8 @@
+{
+  "snacks": [
+    { "id": 1, "name": "Apple", "price": 1.5, "ordersCount": 10 },
+    { "id": 2, "name": "Muffin", "price": 3.0, "ordersCount": 5 }
+  ],
+  "students": [],
+  "orders": []
+}
