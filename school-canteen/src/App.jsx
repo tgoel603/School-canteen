@@ -10,7 +10,7 @@ const Navbar = () => (
     background: '#ffffff', 
     borderBottom: '1px solid #e2e8f0',
     display: 'flex', 
-    justifyContent: 'space-between', // Pushes brand to left and links to right
+    justifyContent: 'space-between', 
     alignItems: 'center',
     marginBottom: '2rem'
   }}>
@@ -40,7 +40,6 @@ function App() {
         }}></div>
       
         <Navbar />
-        {/* Container to center all page content */}
         <div style={{ 
           maxWidth: '800px', 
           margin: '0 auto', 

@@ -35,7 +35,6 @@ const StudentsPage = () => {
       <table>
         <thead>
           <tr>
-              {/* Padding creates the gap between words */}
               <th style={{ padding: '16px 24px', fontSize: '14px', fontWeight: 'bold', color: '#64748b' }}>NAME</th>
               <th style={{ padding: '16px 24px', fontSize: '14px', fontWeight: 'bold', color: '#64748b' }}>REFERRAL</th>
               <th style={{ padding: '16px 24px', fontSize: '14px', fontWeight: 'bold', color: '#64748b' }}>TOTAL SPENT</th>
